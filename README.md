@@ -4,7 +4,7 @@ Spigot/paper plugin that listens for worldedit commands and renames items with h
 
 ## Listeners
 ### /br or /brush
-Renames your item to the brush command used
+Renames your held item to the brush command used
 
 ### /mask
-Adds mask information to the item's lore
+Adds mask information to your held item's lore
