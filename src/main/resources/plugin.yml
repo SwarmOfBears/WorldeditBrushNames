@@ -2,3 +2,5 @@ name: WorldeditBrushNames
 version: '${project.version}'
 main: me.swarmofbears.worldeditbrushnames.WorldeditBrushNames
 api-version: '1.20'
+author: SwarmOfBears
+website: https://github.com/SwarmOfBears
