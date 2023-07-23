@@ -1,0 +1,4 @@
+name: WorldeditBrushNames
+version: '${project.version}'
+main: me.swarmofbears.worldeditbrushnames.WorldeditBrushNames
+api-version: '1.20'
